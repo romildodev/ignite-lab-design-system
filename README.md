@@ -90,7 +90,7 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_Below is an example of how you can install and configure your application, installing the dependencies used..._
 
 1. Clone the repo
    ```sh
@@ -124,7 +124,7 @@ Don't forget to give the project a star! Thanks again!
 
 Romildo Roberto - [https://www.linkedin.com/in/romildodev](https://www.linkedin.com/in/romildodev/)
 
-Project Link: [https://github.com/romildodev/ignite-lab-design-system](https://github.com/romildodev/ignite-lab-design-system)
+Project Link: [https://romildodev.github.io/ignite-lab-design-system](https://romildodev.github.io/ignite-lab-design-system)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
