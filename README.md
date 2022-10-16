@@ -1,4 +1,4 @@
-# ignite-lab-design-system
+# Ignite Lab Design System
 
 Project development using Design System, Viti React, Node.js, Tailwind CSS and documentation with Storybook.
 
