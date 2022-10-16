@@ -31,7 +31,6 @@
       </ul>
     </li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -120,23 +119,12 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Romildo Roberto - [https://www.linkedin.com/in/romildodev](https://www.linkedin.com/in/romildodev/)
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/romildodev/ignite-lab-design-system](https://github.com/romildodev/ignite-lab-design-system)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
